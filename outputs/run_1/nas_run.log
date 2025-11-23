@@ -1,0 +1,13 @@
+Using device: cpu
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ./data\cifar-10-python.tar.gz
+Extracting ./data\cifar-10-python.tar.gz to ./data
+Files already downloaded and verified
+Starting with 10 Population:
+[Arch(conv=2, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=4, acc=0.0000), Arch(conv=4, acc=0.0000), Arch(conv=4, acc=0.0000), Arch(conv=3, acc=0.0000)]
+
+
+============================================================
+Generation 1/5
+============================================================
+Evaluating architecture 1/10... Fitness: 0.5728, Accuracy: 0.5940
+Evaluating architecture 2/10... 

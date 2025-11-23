@@ -1,0 +1,16 @@
+Using device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Starting with 10 Population:
+[Arch(conv=3, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=3, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=4, acc=0.0000), Arch(conv=3, acc=0.0000)]
+
+
+============================================================
+Generation 1/5
+============================================================
+Evaluating architecture 1/10... Fitness: 0.6200, Accuracy: 0.6340
+Evaluating architecture 2/10... Fitness: 0.4160, Accuracy: 0.5920
+Evaluating architecture 3/10... Fitness: 0.5160, Accuracy: 0.5370
+Evaluating architecture 4/10... Fitness: 0.6328, Accuracy: 0.6360
+Evaluating architecture 5/10... Fitness: 0.5335, Accuracy: 0.5440
+Evaluating architecture 6/10... 
